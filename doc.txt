@@ -1,3 +1,5 @@
 Projetos 
 
 Cadastro de pessoas
+ Requisitos
+  assistir um aula para aprender como fazer.
